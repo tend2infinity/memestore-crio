@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Truculenta:wght@500;600&display=swap');
+.card {
+    margin-top: 30px !important;
+    padding: 20px;
+    text-align: center;
+    max-width: 800px;
+    margin: 10px auto;
+    font-family: "Truculenta";
+}
+.btn{
+    color: black;
+    font-weight: 600;
+}
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid rgb(125, 243, 71) !important;
+    box-shadow: 0 1ox 0 0 rgb(125, 243, 71) !important;
+}

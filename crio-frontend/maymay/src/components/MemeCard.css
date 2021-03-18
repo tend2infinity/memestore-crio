@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Truculenta:wght@500;600&display=swap');
+
+.row{
+   
+    text-align: center;
+    max-width: 600px;
+    height: auto;
+    margin: 10px auto;
+  }
+
+.card-content {
+    text-align: left; 
+padding: 5px !important;
+font-family: "Raleway";
+}
+.card-content-name {
+    
+padding: 5px !important;
+font-family: "Raleway";
+text-align: left;
+}
+.edit{
+   margin-left: 600px;
+
+}
